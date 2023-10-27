@@ -5,7 +5,7 @@ import Link from "next/link";
 function Footer() {
   return (
     <>
-      <footer className=" text-black bottom-0 md:left-14 fixed   z-[9999999]">
+      <footer className=" text-black bottom-10 md:left-14 fixed   z-[9999999]">
         <div className="flex md:flex-col  ">
           {FooterDetails.map((item) => (
             <div
