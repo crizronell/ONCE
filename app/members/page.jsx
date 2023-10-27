@@ -1,6 +1,6 @@
 "use client";
 import React, { useState } from "react";
-import { MembersData } from "./membersData";
+import { MembersData } from "./MembersData";
 import Image from "next/image";
 
 function Members() {
